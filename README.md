@@ -2,13 +2,13 @@
 
 ## APPLICATION LINK -> https://apply.opentech.fund/foss-sustainability-fund/
 
-## Notes:
-
-### Application
-
-- [/application.md](/application.md) - based on the 'copy application' button on the grant link above
+## Appliation Proper - [/application.md](/application.md) 
+- based on the 'copy application' button on the grant link above
   - I mostly  just broke it down into subheadings.
   - (for the most part) The ACTUAL quiestions of the grant are under H2 headings
+
+____
+## Notes:
 
 ### Org provided instructions/background
 
@@ -24,3 +24,6 @@
     - i.e. use the "Build the platform BEFORE there is a paid alternative" thing to add a sense of urgency
       i.e. "Imagine if Blender hit `v2.8` (a legendary update) BEFORE Maya was the industry standard" vibe
 - etc
+
+### Related prior grants
+- Epic MegaGrant dev grant 
