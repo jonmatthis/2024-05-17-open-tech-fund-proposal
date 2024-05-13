@@ -15,4 +15,5 @@
   - Is this the repo for that page? - https://github.com/OpenTechFund/application-guide
 
 ### Strategy
-- [/strategy.md](/strategy.md) - based on the 'copy strategy' button on the grant link above
+- They are into `anti-censorship`, `cyber security`, `privacy` so we should; 
+    - focus
